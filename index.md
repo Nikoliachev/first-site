@@ -17,19 +17,13 @@ Markdown is a lightweight and easy-to-use syntax
 2. _Train_
 3. 'abd cds'
 4. `Code`
-5. ```markdown
-Code
-```
 
-
-[BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
 ```markdown
 Test of markdown
 Just writing some stuff
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -37,4 +31,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
