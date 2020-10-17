@@ -15,26 +15,14 @@ Markdown is a lightweight and easy-to-use syntax
 
 1. **Boat**
 2. _Train_
-
+3. 'abd cds'
+4. `Code`
 
 [BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
 ```markdown
 Test of markdown
-
-# A
-## B
-### C
-
-- Hat
-- Car
-
-1. **Boat**
-2. _Train_
-
-**Bold** and _Italic_ and `Code` text
-
-[BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+Just writing some stuff
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
