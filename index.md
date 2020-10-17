@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+## Hello
 
-You can use the [editor on GitHub](https://github.com/Nikoliachev/first-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And welcome to the [BBC](https://bbc.co.uk) to read news
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax
 
 ```markdown
-Syntax highlighted code block
+Test of markdown
 
-# Header 1
-## Header 2
-### Header 3
+# A
+## B
+### C
 
-- Bulleted
-- List
+- Hat
+- Car
 
-1. Numbered
-2. List
+1. **Boat
+2. _Train
 
 **Bold** and _Italic_ and `Code` text
 
