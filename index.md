@@ -1,6 +1,6 @@
 ## Hello
 
-And welcome to [Another page](./another-page.html) to read news
+And welcome to [another page](./another-page.html)
 
 ### Markdown
 
