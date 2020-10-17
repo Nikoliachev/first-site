@@ -17,6 +17,10 @@ Markdown is a lightweight and easy-to-use syntax
 2. _Train_
 3. 'abd cds'
 4. `Code`
+5. ```markdown
+Code
+```
+
 
 [BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
