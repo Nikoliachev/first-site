@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 
 title: My site
 description: Description
-logo: https://favicon-generator.org/favicon-generator/htdocs/favicons/2020-10-17/98b8eb77041831bc89a58b6f00943770.ico.png
+logo: /mfcd00006915-medium.png
 show_downloads:
 google_analytics:
