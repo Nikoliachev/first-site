@@ -16,8 +16,8 @@ Test of markdown
 - Hat
 - Car
 
-1. **Boat
-2. _Train
+1. **Boat**
+2. _Train_
 
 **Bold** and _Italic_ and `Code` text
 
