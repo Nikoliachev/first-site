@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: My site
-description: [A short description of your site's purpose]
-
+description: Description
 logo: https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg
+show_downloads:
+google_analytics:
