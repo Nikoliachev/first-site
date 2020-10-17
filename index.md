@@ -6,6 +6,19 @@ And welcome to the [BBC](https://bbc.co.uk) to read news
 
 Markdown is a lightweight and easy-to-use syntax
 
+# A
+## B
+### C
+
+- Hat
+- Car
+
+1. **Boat**
+2. _Train_
+
+
+[BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+
 ```markdown
 Test of markdown
 
