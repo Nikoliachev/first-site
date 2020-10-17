@@ -21,7 +21,7 @@ Test of markdown
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[BBC](https://bbc.co.uk) and ![Cat](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
