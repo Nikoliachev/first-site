@@ -10,6 +10,10 @@ Markdown is a lightweight and easy-to-use syntax
 ## B
 ### C
 
+> This is very important
+>
+> Very
+
 - Hat
 - Car
 
@@ -27,8 +31,4 @@ Just writing some stuff
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nikoliachev/first-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Check out our [documentation](https://docs.github.com/categories/github-pages-basics/)
+xxx
